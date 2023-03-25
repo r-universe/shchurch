@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "countland"]
+	path = countland
+	url = https://github.com/cran/countland
+	shallow = true
+	registered = true
